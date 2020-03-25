@@ -1,0 +1,33 @@
+
+/******************************************************** Dia 2 ***************************************************/
+/*
+ * Rota (URL) / Recurso -> depois da barra de rotas(Está associado alguma tabela do bancco, algum tipo de entidade)  
+ */
+
+
+ /**
+  * Métodos HTTP
+  * 
+  * GET -> Buscar/Listar uma informação do back-end 
+  * POST -> Criar uma informação no back-end
+  * PUT -> alterar uma informação do back-end
+  * DELETE -> Deletar uma informção do back-end
+  */
+
+  /**
+   * Tipos de parâmetros que podem ser enviados por uma rota
+   * 
+   * Query Params -> Parâetros nomeados e enviados na Rota após o ponto de interroação (?), Filtros/páginação
+   * Route Params -> Parâmetros utilizados pra idetificar recursos (Ex: /Users/:id -> busca os dados apenas com o ID na url )
+   * Request Body -> Corpo da rquisição, utilizado criar ou atulizar recursos 
+   */
+
+/**
+ * SQL: MySql,SQLite, PostgreSQL, Oracle, Microsoft SQL Server
+ * NoSQL: MongoDB, CouchDB, etc
+ */
+
+/**
+ * Driver: SELECT * FROM users
+ * Query Builder: table('users').select(*).where()
+ */
