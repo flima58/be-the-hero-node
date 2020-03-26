@@ -31,3 +31,20 @@
  * Driver: SELECT * FROM users
  * Query Builder: table('users').select(*).where()
  */
+
+/********************************* Dia 3 ******************************************/
+
+//JSX (Javascript XML)
+
+/**
+ * Componente -> é uma função que retorna HTML 
+ */
+
+
+ /**
+  * Prorpiedades ->   Tem a mesma sintaxe do atributo(Class, Id - Tudo que fica junto da TAG)
+  */
+
+  /**
+   * Estado -> Um informação que vai ser mantida pelo componente
+   */
